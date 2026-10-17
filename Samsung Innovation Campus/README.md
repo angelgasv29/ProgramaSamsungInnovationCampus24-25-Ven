@@ -28,11 +28,23 @@ A lo largo de este módulo, desarrollé competencias agrupadas en 4 áreas clave
 *   **Matplotlib:** Generación de gráficos de líneas, configuración de ejes y representación visual de tendencias (ej. evolución de precios en el tiempo).
 *   **Análisis Exploratorio (EDA):** Procesamiento de un *dataset* real de charlas TED (extraído de Kaggle) para calcular métricas de interacción (ratio de comentarios vs. visualizaciones).
 
-### 🏆 Retos Destacados 
+### 🏆 Proyecto Final del modulo de Programación: Lights of Hope
 
-*   **Algoritmos Complejos:** Resolución de problemas de optimización usando *Backtracking* y *Programación Dinámica* (ej. cálculo de coeficientes binomiales y optimización de rutas).
-*   **Análisis de Datos Reales:** Descarga, limpieza y análisis del dataset de TED Talks usando Pandas para entender el impacto de las charlas.
-*   **Arquitectura de Software:** Creación de un sistema CRUD (Crear, Leer, Actualizar, Eliminar) simulado mediante listas de diccionarios y menús interactivos por consola.
+**Análisis de Desastres Naturales Hidrológicos**
+
+Este fue el proyecto final del módulo de Análisis de Datos, desarrollado en equipo. El objetivo fue analizar las tendencias, patrones y correlaciones de desastres naturales hidrológicos a nivel global, identificando los países más afectados, los años con mayor incidencia y las variables principales del dataset.
+
+**Mi rol en el equipo:**
+Me encargué de la línea de procesamiento y análisis de datos de principio a fin. Mis tareas principales incluyeron:
+*   🧹 **Preprocesado:** Limpieza y estructuración de los datos generales.
+*   📊 **Estadística:** Interpretación de los datos estadísticos del dataset.
+*   📈 **Visualización:** Creación de los gráficos para representar visualmente las tendencias.
+*   🔍 **Análisis:** Identificación de patrones y participación activa en la redacción de las conclusiones finales.
+
+*   **Herramientas:** Python, Pandas, Matplotlib, Seaborn.
+*   **Resultado:** El análisis se documentó en una página web interactiva para comunicar los hallazgos de forma clara.
+*   **🔗 Repositorio del proyecto:** [Lights-of-Hope](https://github.com/JulioZambrano91/Lights-of-Hope)
+*   **🌐 Sitio web del proyecto:** [https://sites.google.com/view/lightsofhope/inicio](https://sites.google.com/view/lightsofhope/inicio)
 
 ---
 *Nota: En las carpetas de este módulo encontrarás los cuadernos (`.ipynb`) con la resolución de los quizzes y actividades.*
