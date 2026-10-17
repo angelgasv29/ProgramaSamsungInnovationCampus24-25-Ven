@@ -33,3 +33,6 @@ A lo largo de este módulo, desarrollé competencias agrupadas en 4 áreas clave
 *   **Algoritmos Complejos:** Resolución de problemas de optimización usando *Backtracking* y *Programación Dinámica* (ej. cálculo de coeficientes binomiales y optimización de rutas).
 *   **Análisis de Datos Reales:** Descarga, limpieza y análisis del dataset de TED Talks usando Pandas para entender el impacto de las charlas.
 *   **Arquitectura de Software:** Creación de un sistema CRUD (Crear, Leer, Actualizar, Eliminar) simulado mediante listas de diccionarios y menús interactivos por consola.
+
+---
+*Nota: En las carpetas de este módulo encontrarás los cuadernos (`.ipynb`) con la resolución de los quizzes y actividades.*
