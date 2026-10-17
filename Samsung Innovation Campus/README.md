@@ -39,12 +39,12 @@ Me encargué de la línea de procesamiento y análisis de datos de principio a f
 *   🧹 **Preprocesado:** Limpieza y estructuración de los datos generales.
 *   📊 **Estadística:** Interpretación de los datos estadísticos del dataset.
 *   📈 **Visualización:** Creación de los gráficos para representar visualmente las tendencias.
-*   🔍 **Análisis:** Identificación de patrones y participación activa en la redacción de las conclusiones finales.
+*   🔍 **Análisis:** Identificación de patrones y participación en la redacción de las conclusiones finales.
 
-*   **Herramientas:** Python, Pandas, Matplotlib, Seaborn.
-*   **Resultado:** El análisis se documentó en una página web interactiva para comunicar los hallazgos de forma clara.
-*   **🔗 Repositorio del proyecto:** [Lights-of-Hope](https://github.com/JulioZambrano91/Lights-of-Hope)
-*   **🌐 Sitio web del proyecto:** [https://sites.google.com/view/lightsofhope/inicio](https://sites.google.com/view/lightsofhope/inicio)
+   **Herramientas:** Python, Pandas, Matplotlib, Seaborn.
+   **Resultado:** El análisis se documentó en una página web interactiva para comunicar los hallazgos de forma clara.
+   **🔗 Repositorio del proyecto:** [Lights-of-Hope](https://github.com/JulioZambrano91/Lights-of-Hope)
+   **🌐 Sitio web del proyecto:** [https://sites.google.com/view/lightsofhope/inicio](https://sites.google.com/view/lightsofhope/inicio)
 
 ---
 *Nota: En las carpetas de este módulo encontrarás los cuadernos (`.ipynb`) con la resolución de los quizzes y actividades.*
