@@ -27,7 +27,7 @@ Para la edición 2024-2025 en Venezuela, el programa se ejecutó en alianza con 
 
 ### 🧠 Arquitectura del Aprendizaje
 
-El programa no se limitó a la enseñanza de sintaxis; fue diseñado para forjar **Analistas de Datos** con capacidad de resolución de problemas. El itinerario se dividió en dos grandes bloques (los cuales estructuran este repositorio):
+El programa no se limitó a la enseñanza de sintaxis; fue diseñado para forjar **Analistas de Datos** con capacidad de resolución de problemas a través del **pensamiento computacional y la programación en Python.** El itinerario se dividió en dos grandes bloques (los cuales estructuran este repositorio):
 
 **1. Fundamentos de Programación y Ciencia de Datos**
 *   **Pensamiento Computacional:** Lógica algorítmica, Programación Orientada a Objetos (POO) y estructuras de datos avanzadas en Python.
@@ -45,7 +45,7 @@ El programa no se limitó a la enseñanza de sintaxis; fue diseñado para forjar
 
 El programa culminó con un exigente **Hackathon virtual** bajo la temática central: **"Recuperación Económica Post-Pandemia"**. 
 
-Los equipos desarrollaron soluciones innovadoras orientadas al impacto social en áreas como reconocimiento de imágenes, automatización de procesos y asesores económicos. El evento finalizó con la presentación de los proyectos ante un **jurado nacional y una audiencia internacional**, evaluando la creatividad, la viabilidad técnica y el uso adecuado de las herramientas de IA.
+Los equipos desarrollaron soluciones innovadoras orientadas al impacto social en áreas como reconocimiento de imágenes, automatización de procesos y asesores económicos. El evento finalizó con la presentación de los proyectos ante un **jurado nacional y una observadores internacionales**, evaluando la creatividad, la viabilidad técnica y el uso adecuado de las herramientas de IA.
 
 ---
 
