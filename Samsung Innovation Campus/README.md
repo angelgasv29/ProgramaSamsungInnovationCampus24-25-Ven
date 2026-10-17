@@ -32,7 +32,7 @@ A lo largo de este módulo, desarrollé competencias agrupadas en 4 áreas clave
 
 **Análisis de Desastres Naturales Hidrológicos**
 
-Este fue el proyecto final del módulo de Análisis de Datos, desarrollado en equipo. El objetivo fue analizar las tendencias, patrones y correlaciones de desastres naturales hidrológicos a nivel global, identificando los países más afectados, los años con mayor incidencia y las variables principales del dataset.
+Este fue el proyecto final del módulo, de programación desde el Análisis de Datos y el desarrollo en equipo. El objetivo fue analizar las tendencias, patrones y correlaciones de desastres naturales hidrológicos a nivel global, identificando los países más afectados, los años con mayor incidencia y las variables principales del dataset.
 
 **Mi rol en el equipo:**
 Me encargué de la línea de procesamiento y análisis de datos de principio a fin. Mis tareas principales incluyeron:
