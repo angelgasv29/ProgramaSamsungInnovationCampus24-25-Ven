@@ -14,14 +14,14 @@ Bienvenido al repositorio de la **primera edición en Venezuela del Samsung Inno
 
 A nivel regional, Samsung Innovation Campus ha transformado la vida de más de **350.000 jóvenes** en Latinoamérica, impulsando la creación de más de **55.000 proyectos** tecnológicos. 
 
-Para la edición 2024-2025 en Venezuela, el programa se ejecutó en alianza con **FUNDESTEAM** y **STRATEGO**, logrando una convocatoria histórica que exigió un riguroso proceso de selección basado en habilidades matemáticas y vocación tecnológica.
+"Para la edición 2024-2025 en Venezuela, el programa se ejecutó en alianza con **FUNDESTEAM** y **STRATEGO**, logrando una convocatoria histórica que exigió un riguroso proceso de selección basado en habilidades matemáticas y vocación tecnológica.
 
 > **📊 Cifras de la Primera Cohorte en Venezuela**
 > *   **221** jóvenes seleccionados a nivel nacional.
 > *   **23** universidades públicas representadas.
 > *   **16** estados del territorio venezolano alcanzados.
 > *   **240 horas** de formación (24 semanas).
-> *   **100%** modalidad virtual, sincrónica y asincrónica.
+> *   **100%** modalidad virtual, sincrónica y asincrónica."
 
 ---
 
